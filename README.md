@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mateusferreira.dev.br) 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://mateusferreira.dev.br) 
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusprodev&show_icons=true&theme=codeSTACKr)
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=codeSTACKr)
 
 ## Entre em contato
 
