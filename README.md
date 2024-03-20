@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mateusferreira.dev.br)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://mateusferreira.dev.br)
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusProDev&show_icons=true&theme=codeSTACKr)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusProDev&show_icons=true&theme=codeSTACKr)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusprodev&layout=compact)
 
 ## Tecnologias que eu uso no meu dia 
 
