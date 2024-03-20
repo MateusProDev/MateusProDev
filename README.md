@@ -9,7 +9,7 @@
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusProDev&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia 
+## Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" aling="center" />
@@ -21,6 +21,6 @@
 
 Apaixonado por tecnologia, criar aplicações web que contribua para o mundo dos softwares.
 
-## Entre em contato
+## Entre em contato:
 
 [![TikTok](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mateusferreira.dev.br) [![TikTok](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://mateusferreira.dev.br)
