@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusprodev?igsh=MXI4MzRpcXdzeHN3ZQ==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ferreira-4a77a4219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mateusprodev?is_from_webapp=1&sender_device=pc)
+[![YouTube](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.youtube.com/@mateusprodev)
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusProDev&show_icons=true&theme=codeSTACKr)
 
