@@ -26,5 +26,3 @@
     <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT" aling="center" />
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" aling="center" />
 </div><br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusprodev&layout=compact)
